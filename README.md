@@ -8,6 +8,7 @@ $ create (wordlist)  keberhasilan terletak pada wordlist nya
 ```
 
 $ __Usage: `python instagram.py <username> <wordlist> <threads>
+
 $ **run** `python instagram.py santi123 pass.lst 16
 
 
@@ -22,5 +23,5 @@ optional arguments:
   
   ```bash
   selamat mencoba :)
-  by ./Dnerzker
+ # by ./Dnerzker
 ```

@@ -1,8 +1,8 @@
-# hck-instagram
+# Insta-Brute
 
 ```bash
-git clone https://github.com/dnerzker/hck-instagram.git
-$ cd hck-instagram
+git clone https://github.com/dnerzker/Insta-Brute.git
+$ cd Insta-Brute
 $ chmod +x instagram.py
 $ create (wordlist)  keberhasilan terletak pada wordlist nya
 ```
